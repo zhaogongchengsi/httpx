@@ -1,3 +1,6 @@
+> [!NOTE]
+> forked from [apify/proxy-chain](https://github.com/apify/proxy-chain) Thanks .
+
 # Programmable HTTP proxy server for Node.js
 
 [![npm version](https://badge.fury.io/js/proxy-chain.svg)](http://badge.fury.io/js/proxy-chain)
